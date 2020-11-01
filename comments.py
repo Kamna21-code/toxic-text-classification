@@ -90,19 +90,7 @@ def main():
             plt.imshow(wordcloud,interpolation='bilinear')
             plt.axis("off")
             st.pyplot()
-
-
-
-
-
-
-
-
-
     st.sidebar.subheader("About")
-
-
-
 
 if __name__ == '__main__':
     main()
