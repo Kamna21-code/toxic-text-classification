@@ -5,8 +5,6 @@ Created on Sat Oct 31 17:30:08 2020
 @author: 91782
 """
 import streamlit as st 
-import joblib,os
-import spacy
 import pandas as pd
 import matplotlib.pyplot as plt 
 import matplotlib
