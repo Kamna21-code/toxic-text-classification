@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run comments.py
+worker: sh setup.sh && streamlit run comments.py
